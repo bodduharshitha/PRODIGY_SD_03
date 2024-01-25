@@ -3,8 +3,6 @@
 ### It will also allow users to view their contact list, edit existing contacts, and delete contacts if needed. 
 ### The program will store the contacts in memory or in a file for persistent storage.
 
-#### Task includes:
-
 ### Features
 
 #### 1. Add Contacts
