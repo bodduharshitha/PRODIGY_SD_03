@@ -7,13 +7,13 @@
 
 ### Features
 
-### 1. Add Contacts
+#### 1. Add Contacts
 Easily add new contacts by providing their name, phone number, and email address.
-### 2. View Contacts
+#### 2. View Contacts
 Access a comprehensive list of stored contacts for quick reference.
-### 3. Edit Existing Contacts
+#### 3. Edit Existing Contacts
 Modify contact details with ease to keep information up-to-date.
-### 4. Delete Contacts
+#### 4. Delete Contacts
 Remove unwanted contacts effortlessly.
 
 ### Persistence Mechanism
